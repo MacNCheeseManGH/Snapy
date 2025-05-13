@@ -7,4 +7,6 @@
 # Requirerments
 
 - Mabook or Apple device with Xcode.
+- Apple Developer Account.
+- Apple Simulator.
 - More to come with later versions.
